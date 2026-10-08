@@ -1,0 +1,658 @@
+[
+  {
+    "account_id": "br-loggi",
+    "account": {
+      "name": "Loggi",
+      "tax_id": "15.881.399/0001-34",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 3000,
+      "industry": "logistics",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "marina.costa@loggi.com",
+      "name": "Marina Costa",
+      "title": "Gerente Financeira",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "br-hering",
+    "account": {
+      "name": "Cia. Hering",
+      "tax_id": "86.987.973/0001-81",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 5000,
+      "industry": "fashion_retail",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "rafael.lima@hering.com.br",
+      "name": "Rafael Lima",
+      "title": "Controller",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "br-petz",
+    "account": {
+      "name": "Petz",
+      "tax_id": "09.114.170/0001-71",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 5000,
+      "industry": "pet_retail",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "paula.ribeiro@petz.com.br",
+      "name": "Paula Ribeiro",
+      "title": "Diretora Financeira",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "br-arezzo",
+    "account": {
+      "name": "Arezzo&Co",
+      "tax_id": "75.364.556/0001-66",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 5000,
+      "industry": "fashion_retail",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "thiago.alves@arezzo.com.br",
+      "name": "Thiago Alves",
+      "title": "Gerente de Contas a Pagar",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "br-movida",
+    "account": {
+      "name": "Movida",
+      "tax_id": "81.518.844/0001-20",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 5000,
+      "industry": "car_rental",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "anamendes.movida@gmail.com",
+      "name": "Ana Mendes",
+      "title": "Gerente Financeira",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "mx-cinepolis",
+    "account": {
+      "name": "Cinépolis",
+      "tax_id": "CIN970321VBZ",
+      "entity_countries": [
+        "MX",
+        "BR",
+        "CO"
+      ],
+      "employees": 10000,
+      "industry": "entertainment",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "lucia.hernandez@cinepolis.com",
+      "name": "Lucía Hernández",
+      "title": "Directora de Finanzas",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "mx-liverpool",
+    "account": {
+      "name": "El Puerto de Liverpool",
+      "tax_id": "ELP950814F17",
+      "entity_countries": [
+        "MX"
+      ],
+      "employees": 10000,
+      "industry": "department_stores",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "jorge.ramirez@liverpool.com.mx",
+      "name": "Jorge Ramírez",
+      "title": "Gerente de Tesorería",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "co-alpina",
+    "account": {
+      "name": "Alpina",
+      "tax_id": "815.629.378-6",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 5000,
+      "industry": "food_manufacturing",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "camilo.rojas@alpina.com",
+      "name": "Camilo Rojas",
+      "title": "Jefe de Compras",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "co-postobon",
+    "account": {
+      "name": "Postobón",
+      "tax_id": "857.102.035-5",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 10000,
+      "industry": "beverages",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "dvelez_postobon@yahoo.com",
+      "name": "Daniela Vélez",
+      "title": "Gerente Administrativa",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "co-procafecol",
+    "account": {
+      "name": "Procafecol (Juan Valdez)",
+      "tax_id": "867.962.320-5",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 2000,
+      "industry": "coffee_retail",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "andres.gomez@juanvaldezcafe.com",
+      "name": "Andrés Gómez",
+      "title": "Director Financiero",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "ar-globant",
+    "account": {
+      "name": "Globant (origen argentino)",
+      "tax_id": "97.684.697/0001-07",
+      "entity_countries": [
+        "AR",
+        "BR",
+        "MX",
+        "CO"
+      ],
+      "employees": 20000,
+      "industry": "software",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "sofia.pereyra@globant.com",
+      "name": "Sofía Pereyra",
+      "title": "Finance Manager LATAM",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT (Argentine company with entities in Brazil, Mexico and Colombia)"
+  },
+  {
+    "account_id": "br-raiadrogasil",
+    "account": {
+      "name": "Raia Drogasil",
+      "tax_id": "88.093.208/0001-43",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 50000,
+      "industry": "pharmacy_retail",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "fernanda.lopes@rd.com.br",
+      "name": "Fernanda Lopes",
+      "title": "Gerente de Despesas",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "mx-bimbo",
+    "account": {
+      "name": "Grupo Bimbo",
+      "tax_id": "GRU91122036K",
+      "entity_countries": [
+        "MX",
+        "BR",
+        "CO"
+      ],
+      "employees": 100000,
+      "industry": "food_manufacturing",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "alejandro.cruz@grupobimbo.com",
+      "name": "Alejandro Cruz",
+      "title": "Gerente de Viajes y Gastos",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "co-corona",
+    "account": {
+      "name": "Organización Corona",
+      "tax_id": "864.708.126-4",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 10000,
+      "industry": "building_materials",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "sebastian.arango@corona.co",
+      "name": "Sebastián Arango",
+      "title": "Director Financiero",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "co-exito",
+    "account": {
+      "name": "Grupo Éxito",
+      "tax_id": "830.726.097-1",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 40000,
+      "industry": "retail",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "valentina.ospina@grupo-exito.com",
+      "name": "Valentina Ospina",
+      "title": "Jefe de Cuentas por Pagar",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "CONTACT"
+  },
+  {
+    "account_id": "br-totvs",
+    "account": {
+      "name": "TOTVS",
+      "tax_id": "17.784.864/0001-45",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 9000,
+      "industry": "software",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "lucas.martins@totvs.com.br",
+      "name": "Lucas Martins",
+      "title": "Controller",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "ENRICH (CNPJ with a wrong check digit)"
+  },
+  {
+    "account_id": "br-magalu",
+    "account": {
+      "name": "Magazine Luiza (Magalu)",
+      "tax_id": "88.766.344/0001-57",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 30000,
+      "industry": "retail",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "joana.silva@magazineluiza.com.br",
+      "name": "Joana Silva",
+      "title": "Gerente Financeira",
+      "language": "pt"
+    },
+    "crm": {
+      "is_customer": 1,
+      "stage": "customer"
+    },
+    "expected": "SUPPRESS R1 (Clara customer, listed on clara.com)"
+  },
+  {
+    "account_id": "co-aviatur",
+    "account": {
+      "name": "Aviatur",
+      "tax_id": "801.245.123-5",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 2000,
+      "industry": "travel",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "laura.castro@aviatur.com",
+      "name": "Laura Castro",
+      "title": "Directora Financiera",
+      "language": "es"
+    },
+    "crm": {
+      "is_customer": 1,
+      "stage": "customer",
+      "assigned_ae": "valeria.ae@clara.com"
+    },
+    "expected": "SUPPRESS R1 (Clara customer, listed on clara.com)"
+  },
+  {
+    "account_id": "mx-rappi",
+    "account": {
+      "name": "Rappi",
+      "tax_id": "804.443.850-1",
+      "entity_countries": [
+        "CO",
+        "MX",
+        "BR"
+      ],
+      "employees": 5000,
+      "industry": "delivery_platform",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "ricardo.luna@rappi.com",
+      "name": "Ricardo Luna",
+      "title": "Head of Finance",
+      "language": "es"
+    },
+    "crm": {
+      "has_open_opportunity": 1,
+      "assigned_ae": "bruno.ae@clara.com"
+    },
+    "expected": "SUPPRESS R2 (open opportunity)"
+  },
+  {
+    "account_id": "co-frisby",
+    "account": {
+      "name": "Frisby",
+      "tax_id": "820.111.687-0",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 3000,
+      "industry": "restaurants",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "felipeduarte.frisby@hotmail.com",
+      "name": "Felipe Duarte",
+      "title": "Gerente Financiero",
+      "language": "es"
+    },
+    "crm": {
+      "assigned_ae": "mariana.ae@clara.com"
+    },
+    "expected": "SUPPRESS R2 (assigned AE)"
+  },
+  {
+    "account_id": "co-servientrega",
+    "account": {
+      "name": "Servientrega",
+      "tax_id": "887.998.874-1",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 10000,
+      "industry": "logistics",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "natalia.mejia@servientrega.com",
+      "name": "Natalia Mejía",
+      "title": "Jefe de Tesorería",
+      "language": "es"
+    },
+    "crm": {
+      "contact_opted_out": 1
+    },
+    "expected": "SUPPRESS R3 (contact opted out)"
+  },
+  {
+    "account_id": "mx-lacomer",
+    "account": {
+      "name": "La Comer",
+      "tax_id": "LAC99082697Z",
+      "entity_countries": [
+        "MX"
+      ],
+      "employees": 10000,
+      "industry": "supermarkets",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "carlos.ortiz@lacomer.com.mx",
+      "name": "Carlos Ortiz",
+      "title": "Contralor",
+      "language": "es"
+    },
+    "crm": {
+      "do_not_contact": 1
+    },
+    "expected": "SUPPRESS R3 (do-not-contact)"
+  },
+  {
+    "account_id": "br-cocobambu",
+    "account": {
+      "name": "Coco Bambu",
+      "tax_id": null,
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 5000,
+      "industry": "restaurants",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "diegorocha.cocobambu@gmail.com",
+      "name": "Diego Rocha",
+      "title": "Gerente Financeiro",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "ENRICH (no CNPJ yet)"
+  },
+  {
+    "account_id": "mx-herdez",
+    "account": {
+      "name": "Grupo Herdez",
+      "tax_id": "GRU930523758",
+      "entity_countries": [
+        "MX"
+      ],
+      "employees": 10000,
+      "industry": "food_manufacturing",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "contacto@herdez.com.mx",
+      "name": "",
+      "title": "",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "ENRICH (generic inbox, no name or title)"
+  },
+  {
+    "account_id": "co-crepes",
+    "account": {
+      "name": "Crepes & Waffles",
+      "tax_id": "866.727.300-8",
+      "entity_countries": [
+        "CO"
+      ],
+      "employees": 5000,
+      "industry": "restaurants",
+      "legal_type": "company"
+    },
+    "contact": null,
+    "crm": {},
+    "expected": "ENRICH (no contact at all)"
+  },
+  {
+    "account_id": "ar-laanonima",
+    "account": {
+      "name": "La Anónima",
+      "tax_id": "30-68045717-9",
+      "entity_countries": [
+        "AR"
+      ],
+      "employees": 10000,
+      "industry": "supermarkets",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "martin.diaz@laanonima.com.ar",
+      "name": "Martín Díaz",
+      "title": "CFO",
+      "language": "es"
+    },
+    "crm": {},
+    "expected": "SUPPRESS R6 (Argentina only, no entity in BR, MX or CO)"
+  },
+  {
+    "account_id": "br-bancointer",
+    "account": {
+      "name": "Banco Inter",
+      "tax_id": "84.726.714/0001-71",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 3000,
+      "industry": "banking",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "elena.ruiz@bancointer.com.br",
+      "name": "Elena Ruiz",
+      "title": "Diretora de Compras",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "SUPPRESS R6 (bank: excluded industry)"
+  },
+  {
+    "account_id": "br-correios",
+    "account": {
+      "name": "Correios",
+      "tax_id": "75.136.270/0001-23",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 80000,
+      "industry": "postal_services",
+      "legal_type": "public_sector"
+    },
+    "contact": {
+      "email": "roberto.nunes@correios.com.br",
+      "name": "Roberto Nunes",
+      "title": "Gerente de Compras",
+      "language": "pt"
+    },
+    "crm": {},
+    "expected": "SUPPRESS R6 (state-owned: buys through public procurement, not outbound)"
+  },
+  {
+    "account_id": "br-drconsulta",
+    "account": {
+      "name": "Dr. Consulta",
+      "tax_id": "10.798.193/0001-21",
+      "entity_countries": [
+        "BR"
+      ],
+      "employees": 2000,
+      "industry": "healthcare",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "carla.mendes@drconsulta.com",
+      "name": "Carla Mendes",
+      "title": "Gerente Financeira",
+      "language": "pt"
+    },
+    "crm": {
+      "last_outreach_at": "2026-10-01T10:00:00+00:00",
+      "stage": "contacted"
+    },
+    "expected": "WAIT R7 (contacted 5 days ago)"
+  },
+  {
+    "account_id": "mx-fahorro",
+    "account": {
+      "name": "Farmacias del Ahorro",
+      "tax_id": "FAR930220CTY",
+      "entity_countries": [
+        "MX"
+      ],
+      "employees": 10000,
+      "industry": "pharmacy_retail",
+      "legal_type": "company"
+    },
+    "contact": {
+      "email": "elena.soto@fahorro.com",
+      "name": "Elena Soto",
+      "title": "Gerente de Compras",
+      "language": "es"
+    },
+    "crm": {
+      "last_outreach_at": "2026-09-30T10:00:00+00:00",
+      "stage": "contacted"
+    },
+    "expected": "WAIT R7 (contacted 6 days ago)"
+  }
+]
